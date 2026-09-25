@@ -1,0 +1,11 @@
+[
+  {
+    "display_name": "MegaPlay Anime",
+    "value": "megaplay-anime",
+    "version": "1.0.0",
+    "type": "anime",
+    "icon": "https://megaplay.buzz/favicon.ico",
+    "disabled": false,
+    "hasSettings": true
+  }
+]
