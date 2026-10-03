@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Protags Network",
+    "display_name": "Protags Network",
+    "value": "megaplay-anime",
+    "version": "1.0.1",
+    "type": "Anime",
+    "flag": "🌐",
+    "icon": "https://cdn.originory.com/api/provider/icon.png",
+    "disabled": false,
+    "hasSettings": true
+  }
+]
